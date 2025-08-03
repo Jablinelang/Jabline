@@ -1,0 +1,6 @@
+var nombre = "Jabline"
+func "saludar" {
+  echo "Hola"
+  echo 
+}
+saludar()
